@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Amy 😊
 
-I recently completed an Information Technology Diploma in Software Development from SAIT and am currently pursuing a Bachelor’s degree in Computer Science at the University of Lethbridge. 
+I recently completed an Information Technology Diploma in Software Development from SAIT and am currently pursuing a Bachelor’s degree in Computer Science at the University of Calgary. 
 I am passionate about gaining hands-on experience and developing my technical skills. 
 
 
